@@ -1,0 +1,12 @@
+Challenges:
+    Handling imbalanced datasets where fraud cases are a small fraction of total transactions.
+    Ensuring high precision to minimize false positives (flagging a valid transaction as fraud).
+    Ensuring high recall to detect as many fraud cases as possible.
+
+Columns Description:
+
+    Time: This shows how many seconds have passed since the first transaction in the dataset.
+    V1-V28: These are special features created to hide sensitive information about the original data.
+    Amount: Transaction amount.
+    Class: Target variable (0 for normal transactions, 1 for fraudulent transactions).
+
