@@ -16,8 +16,11 @@ This project addresses these challenges using data preprocessing, feature engine
 
 🛠️ Tech Stack
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 Models : Random Forest,SMOTE
+
 Tools: Visual studio Code 
 
 ⚙️ Project Workflow
